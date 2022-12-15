@@ -24,11 +24,9 @@ Wait for the confirmation message :
 If you have any troubles with this process, please get in touch with SCAE Data management team : asde-datamanagement@sumitomo-chemical.eu
 
 
-# How to use the set?
+# Set up the format date in ARM
 
 To do once (the first time you use the set)
-
-## Set up the format date in ARM
 
  ![Image3](https://user-images.githubusercontent.com/107858242/207804096-b204e18c-3f76-4aa2-8654-71a003cc1c45.png)
 
