@@ -3,7 +3,7 @@
 
 ## Full Documentation
 
-See the Wiki for full documentation, examples, operational details and other information.
+See the [Wiki](https://github.com/Sumitomo-Chemical-Agro-Europe/ARM-Reports/wiki) for full documentation, examples, operational details and other information.
 
 ## How to install ARM files for standard ARM Sumitomo reports?
 
