@@ -8,7 +8,7 @@ See the [Wiki](https://github.com/Sumitomo-Chemical-Agro-Europe/ARM-Reports/wiki
 ## How to install ARM files for standard ARM Sumitomo reports?
 
 ### 1)	Download the required files: 
-Please download the required files here : [GDMdef.a7z](https://github.com/Sumitomo-Chemical-Agro-Europe/ARM-Reports/blob/main/GDMdef.a7z)
+Please download the required files here : [GDMdef.a7z](https://github.com/Sumitomo-Chemical-Agro-Europe/ARM-Reports/raw/refs/heads/main/GDMdef.a7z)
 
 ### 2)	Open the file with ARM :
 
